@@ -117,11 +117,6 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
 Author: Shashank
 Institution: Bharati Vidyapeeth College of Engineering-Delhi
 Graduation: 2026
